@@ -28,9 +28,7 @@ for name, num in nums.items():
                         indicator+=1
                         names.append(name)            
 
-if(num!=[]):
-    for name in names:
-        print(name)
+if(names!=[]):
+    print(names,'lead to inconsistency')
     print("Number of inconsistency:",indicator)
-
 
