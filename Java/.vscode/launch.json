@@ -4,7 +4,6 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-    
         {
             "type": "java",
             "name": "Debug (Launch)-Tester<Java>",
@@ -12,7 +11,7 @@
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
             "stopOnEntry": false,
-            "mainClass": "Tester",
+            "mainClass": "gguo1",
             "projectName": "Java",
             "args": ""
         },
